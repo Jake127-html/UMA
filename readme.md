@@ -12,6 +12,8 @@ Python using CustomTkinter, and  [to be] compiled via AutoPy
 
 EXTREMELY EARLY! WIP! 
 
-<img width="1245" height="987" alt="image" src="https://github.com/user-attachments/assets/1e0a39fc-09e2-4bdd-8ffb-09d4bcddd9db" />
+
 
 <img width="1250" height="972" alt="image" src="https://github.com/user-attachments/assets/16bf0d66-bba6-4224-bee1-0b76cd379cb4" />
+
+<img width="1245" height="987" alt="image" src="https://github.com/user-attachments/assets/1e0a39fc-09e2-4bdd-8ffb-09d4bcddd9db" />
