@@ -8,7 +8,7 @@ This lightweight python application exists as an instant and easily viewable GUI
 None. 
   
 # Installation Guide  
-1. Download the .zip  
+1. [Download](https://github.com/user-attachments/files/31311345/UMA.v0.0.1.zip)  
 2. Unzip  
 3. Open, launch via UMA shortcut.  
 4. Enjoy.  
